@@ -1,0 +1,67 @@
+*{
+    text-decoration: none;
+    margin: 0;
+}
+
+img{
+    height: 100px;
+    padding-left: 150px;
+    padding-top: 5px;
+    justify-content: center;
+    align-items: center
+}
+
+body{
+    background-image: url("/assets/img/caption.jpg");
+    display: flex;
+
+}
+
+.description{
+    display: flex;
+    padding-right: 0;
+
+}
+
+.d{
+    align-items: center;
+    padding-left: 0px;
+    font-size: 15px;
+    margin-top: 0%;
+    padding-top: 5px;
+
+}
+
+.text{
+    font-size: 30px;
+    padding-left: 200px;
+    text-align: center;
+    padding-top: 300px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+
+
+.properform{
+    display: flex;
+    margin-left: 0px;
+    align-items: right;
+    text-align: right;
+    justify-content: right;
+
+}
+
+.instructions{
+    width: 700px;
+    text-align: right;
+    align-items: right;
+    justify-content: right;
+
+}
+
+header{
+    background-color: white;
+    height: 100px;
+    
+}
